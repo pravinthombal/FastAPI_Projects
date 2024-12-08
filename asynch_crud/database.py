@@ -1,7 +1,7 @@
 from sqlalchemy.ext.asyncio import AsyncSession, create_async_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
 
-DATABASE_URL = "mysql+aiomysql://root:Pravinth%40123@localhost/practice_pymysql"
+DATABASE_URL = "mysql+aiomysql://root:@localhost/practice_pymysql"
 
 # Async SQLAlchemy engine
 engine = create_async_engine(DATABASE_URL, echo=True, future=True)

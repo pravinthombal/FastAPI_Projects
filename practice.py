@@ -1,3 +1,5 @@
+# DATABASE_URL = "mysql+pymysql://root:Pravinth%40123@localhost/practice_pymysql"
+
 # class A:
 #     x = 'pravin'
 #     _y = 'mahesh'
