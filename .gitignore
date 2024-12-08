@@ -3,5 +3,5 @@
 *.py[cod]
 news/
 menv/
-.practice.py
+practice.py
 
